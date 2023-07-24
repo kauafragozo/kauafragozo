@@ -2,7 +2,5 @@
 // 👋 Olá, Seja Bem-Vindo ao meu perfil do GitHub!
 
 // 🐱‍👤Ferramentas e Tecnologias:
-<img loading="lazy"> src="<i class="devicon-csharp-plain"></i>"
-           
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
           
-
