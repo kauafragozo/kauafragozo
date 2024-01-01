@@ -1,12 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Kauã Fragozo and my nickname is "kaka"!
 
+// 🤳 Talk To Me:
 <div>
 <a href="https://instagram.com/kauafragoozo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Stacks:
+// 🐱‍👤💻 Stacks:
 <div>
    <div style= "display: inline_block"><br>
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
@@ -17,7 +18,7 @@ Stacks:
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
 
-Currently Learning:
+// 🎓😼 Currently Learning:
 <div>
    <div style= "display: inline_block"><br>
     <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
