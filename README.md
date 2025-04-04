@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Kauã Fragozo and my nickname is "kaka"!
-Olá! Meu nome é Kauã, tenho 20 anos, e minha paixão pela tecnologia sempre foi uma constante na minha vida. Além de entusiasta da tecnologia, tenho interesses diversificados, como carros e jiu-jitsu, que enriquecem minha jornada pessoal.
+Olá! Meu nome é Kauã, tenho 20 anos, e minha paixão pela tecnologia sempre foi uma constante na minha vida. Além de entusiasta da tecnologia, tenho interesses diversificados, como empreendedorismo e investimentos, que enriquecem minha jornada pessoal.
 
 Minha trajetória no desenvolvimento de software começou com aplicações Console e Softwares WinForm, onde adquiri sólidos conhecimentos em C#, .NET, SQL Server, Git e Azure Data Studio. Atualmente, estou direcionando meu foco para o desenvolvimento web, explorando novas possibilidades e desafios nesse ambiente dinâmico.
 
@@ -11,7 +11,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
 
 // 🤳 Talk To Me:
 <div>
-<a href="https://instagram.com/kauafragoozo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/kaua_fragozob" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 #  
@@ -21,13 +21,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
-# 
-// 🎓😼 Currently Learning:
-
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-
+ 
 #
 <div>
 <a href="https://github.com/kauafragozo">
