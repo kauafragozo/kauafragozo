@@ -1,10 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Kauã Fragozo and my nickname is "kaka"!
-Olá! Meu nome é Kauã, tenho 20 anos, e minha paixão pela tecnologia sempre foi uma constante na minha vida. Além de entusiasta da tecnologia, tenho interesses diversificados, como empreendedorismo e investimentos, que enriquecem minha jornada pessoal.
+Olá! Meu nome é Kauã, tenho 20 anos, e minha paixão pela tecnologia sempre foi uma constante na minha vida. Além de entusiasta da tecnologia, tenho interesses diversificados, como empreendedorismo, música e video-games, que enriquecem minha jornada pessoal.
 
 Minha trajetória no desenvolvimento de software começou com aplicações Console e Softwares WinForm, onde adquiri sólidos conhecimentos em C#, .NET, SQL Server, Git e Azure Data Studio. Atualmente, estou direcionando meu foco para o desenvolvimento web, explorando novas possibilidades e desafios nesse ambiente dinâmico.
-
-Em minha jornada de aprendizado, tenho me aprofundado em tecnologias web, como Java, MongoDB, Spring Boot e MySQL. Essa busca por conhecimento visa expandir minha capacidade de criar soluções inovadoras e acompanhar as tendências do mundo digital.
 
 Estou sempre em busca de novos desafios e oportunidades para continuar crescendo e contribuindo para o avanço da tecnologia. Seja desenvolvendo aplicações robustas ou explorando novas tecnologias, estou comprometido em aprender e evoluir constantemente.
 #
