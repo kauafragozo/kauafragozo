@@ -2,9 +2,10 @@
 
    <div>
      <br> 
-🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
+<p style="font-size:30px">🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
 
 🖥️ I'm currently working as help desk at a company located in my town, Flores da Cunha - RS.
+<\p>
      <br>
    </div>
 
