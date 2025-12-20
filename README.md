@@ -46,7 +46,7 @@
 Thank you for reading!
 Obrigado por ler!
    <br>
-![gojo-satoru](https://github.com/user-attachments/assets/535fe4e0-0e14-45af-8cd6-2dca31ae7b25)
+![satoru-gojo-gif-2](https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463)
 <br>
 </footer>
 
