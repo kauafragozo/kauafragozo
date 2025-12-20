@@ -1,5 +1,4 @@
 <h1>Hey There! 👋 </h1>
-
    <div>
      <br> 
 <p style="font-size:30px"></p>🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
@@ -41,7 +40,7 @@
    <br>
     <br>
    
-<h2>Thank you for reading!</h2> <br>
+<h2>Thank you for reading!</h2> 
 <h3>Obrigado por ler!</h3>
 <br>
 <div aligin="center">
