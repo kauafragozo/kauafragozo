@@ -41,8 +41,8 @@
    <br>
     <br>
    
-Thank you for reading! <br>
-Obrigado por ler!
+<h2>Thank you for reading!<\h2> <br>
+<h3>Obrigado por ler!<\h3>
 <br>
 <div aligin="center">
 <img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" alt="Gojo GIF" width="100%" style="max-width=900px" />
