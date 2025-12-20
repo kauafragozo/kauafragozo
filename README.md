@@ -2,11 +2,10 @@
 
    <div>
      <br> 
-<p style="font-size:30px">🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
+<p style="font-size:30px"></p>🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
 
 🖥️ I'm currently working as help desk at a company located in my town, Flores da Cunha - RS.
-<\p>
-     <br>
+
    </div>
 
  <div> 
@@ -42,8 +41,8 @@
    <br>
     <br>
    
-<h2>Thank you for reading!<\h2> <br>
-<h3>Obrigado por ler!<\h3>
+<h2>Thank you for reading!</h2> <br>
+<h3>Obrigado por ler!</h3>
 <br>
 <div aligin="center">
 <img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" alt="Gojo GIF" width="100%" style="max-width=900px" />
