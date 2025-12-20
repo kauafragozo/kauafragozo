@@ -2,12 +2,15 @@
 
 <body>
    <div>
+      
 🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
 
 🖥️ I'm currently working as help desk at a company located in my town, Flores da Cunha - RS.
+
    </div>
 
- <div>  
+ <div> 
+    
 ✨ Stacks: ✨
 <img align= "center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -16,9 +19,11 @@
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
  </div>
 
 <div>
+   
  🤳 How to reach Me? 🤳
 
  <a href="https://instagram.com/kaua_fragozob" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
