@@ -1,6 +1,5 @@
 <h1>Hey There! 👋 </h1>
 
-<body>
    <div>
      <br> 
 🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I loved tech since I was younger and since then i was always interested about it.
@@ -39,16 +38,19 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kauafragozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
    <br>
-</body>
-<footer>
    <br>
     <br>
-Thank you for reading!
+   
+Thank you for reading! <br>
 Obrigado por ler!
-   <br>
-![satoru-gojo-gif-2](https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463)
 <br>
-</footer>
+<div aligin="center">
+<img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" alt="Gojo GIF" width="100%" style="max-width=900px" />
+<br>
+      
+   </div>
+
+
 
 
 
