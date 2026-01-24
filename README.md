@@ -33,6 +33,8 @@
    <br>
    <br>
     <br>
+
+   [Kaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauafragozo)](https://github.com/anuraghazra/github-readme-stats)
    
 <h2>Thank you for reading!</h2> 
 <h3>Obrigado por ler!</h3>
