@@ -5,7 +5,7 @@
 <p align="center">
   🙋‍♂️ Meu nome é <strong>Kauã</strong>, tenho 22 anos e sou estudante de 
   <strong>Análise e Desenvolvimento de Sistemas</strong>.  
-  Sou apaixonado por tecnologia desde os 9 anos de idade e, desde então, 
+  Sou apaixonado por tecnologia desde quando era mais novo, desde então, 
   venho buscando evoluir constantemente como desenvolvedor.
 </p>
 
