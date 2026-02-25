@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!" />
+</p>
 
 <p align="center">
   🙋‍♂️ Meu nome é <strong>Kauã</strong>, tenho 22 anos e sou estudante de 
