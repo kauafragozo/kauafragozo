@@ -1,51 +1,56 @@
-<h1>Hey There! 👋 </h1>
-   <div>
-     <br> 
-<p style="font-size:30px"></p>🙋‍♂️ My name is Kauã and I am a twenty-two years old brazilian Software Engineering student. I love tech since I was younger and since then I was always interested about it.
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
-🖥️ I'm currently working as help desk at a company located in my town, Flores da Cunha - RS.
+<p align="center">
+  🙋‍♂️ Meu nome é <strong>Kauã</strong>, tenho 22 anos e sou estudante de 
+  <strong>Análise e Desenvolvimento de Sistemas</strong>.  
+  Sou apaixonado por tecnologia desde os 9 anos de idade e, desde então, 
+  venho buscando evoluir constantemente como desenvolvedor.
+</p>
 
-   </div>
+---
 
- <div> 
-    <br>
-     <br>
-<h3>✨ Stacks: ✨</h3>
-    <br>
-<img align= "center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<br>
- <br>
- </div>
-<div>
-   <br>
-    <br>
- <h3>🤳 How to reach Me? 🤳</h3> 
-    <a href="https://instagram.com/kakavengeance_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<br>
-</div>
-<br>
-   <br>
-   <br>
-    <br>
+<h2 align="center">✨ Tech Stack</h2>
 
-  ![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauafragozo&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-   
-<h2>Thank you for reading!</h2> 
-<h3>Obrigado por ler!</h3>
-<br>
-<div aligin="center">
-<img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" alt="Gojo GIF" width="100%" style="max-width=900px" />
-<br>
-      
-   </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Developer-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-Core-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white" />
+</p>
 
+---
 
+<h2 align="center">🤳 Contato</h2>
 
+<p align="center">
+  <a href="https://instagram.com/kakavengeance_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/kauã-fragozo-8a3a15260/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauafragozo&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauafragozo&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">Obrigado por visitar meu perfil! 🚀</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" 
+       alt="Gojo GIF" 
+       width="100%" 
+       style="max-width:900px;" />
+</p>
