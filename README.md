@@ -55,8 +55,14 @@
 <h3 align="center">Obrigado por visitar meu perfil! 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dca47dea-bdea-4ebc-8c1a-2be017730463" 
-       alt="Gojo GIF" 
+  <img src="https://github.com/user-attachments/assets/6a6d0339-bd3e-477c-abd1-4a25d7fbf31f"
+       alt="eevee-pokemon-cute-eyes-amazed-sparkle-9ril7lm7sgu7wdzo" 
        width="100%" 
        style="max-width:900px;" />
 </p>
+
+
+
+
+
+
